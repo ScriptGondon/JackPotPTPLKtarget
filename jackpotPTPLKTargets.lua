@@ -111,4 +111,6 @@ return {
     "EightHoursBefore",
     "TANKA77664",
     "roblox_user_5366086322",
+    "oioioi0300",
+    "pawan_3001",
 }
