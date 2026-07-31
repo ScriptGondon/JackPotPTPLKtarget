@@ -109,5 +109,6 @@ return {
     "Ilseydl",
     "rapuh9",
     "EightHoursBefore",
-    "",
+    "TANKA77664",
+    "roblox_user_5366086322",
 }
