@@ -103,5 +103,6 @@ return {
     "FIMOZ_SlGMA32",
     "showcase600",
     "protogen_XD28",
-
+    "amirka_66637",
+    "chicken_mucknugetts",
 }
