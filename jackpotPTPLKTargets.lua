@@ -101,4 +101,5 @@ return {
     "whattwwh",
     "Yesdssss6",
     "FIMOZ_SlGMA32",
+    "showcase600",
 }
