@@ -118,4 +118,6 @@ return {
     "isaiahjoelj",
     "yopunkbro",
     "Koneys5",
+    "ookami58580",
+    "random_guy33361",
 }
