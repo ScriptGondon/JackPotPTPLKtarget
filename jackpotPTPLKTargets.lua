@@ -128,4 +128,6 @@ return {
     "Wwwtnt88",
     "Palap12",
     "uglygera0908",
+    "geometrydash2_6",
+    "LewMali",
 }
