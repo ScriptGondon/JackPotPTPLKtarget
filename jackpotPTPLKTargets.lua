@@ -138,4 +138,5 @@ return {
     "boraalp80",
     "kemonoFF",
     "X4sZ99",
+    "Ethanvandermer",
 }
