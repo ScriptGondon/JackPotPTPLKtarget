@@ -135,4 +135,6 @@ return {
     "oxxokewl".
     "Gubbi123418",
     "gazan1480",
+    "boraalp80",
+    "kemonoFF",
 }
