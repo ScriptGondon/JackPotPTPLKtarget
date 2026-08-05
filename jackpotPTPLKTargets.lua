@@ -137,4 +137,5 @@ return {
     "gazan1480",
     "boraalp80",
     "kemonoFF",
+    "X4sZ99",
 }
