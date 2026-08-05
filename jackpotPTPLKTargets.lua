@@ -130,4 +130,5 @@ return {
     "uglygera0908",
     "geometrydash2_6",
     "LewMali",
+    "areen_cornflake",
 }
