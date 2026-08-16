@@ -139,4 +139,7 @@ return {
     "kemonoFF",
     "X4sZ99",
     "Ethanvandermer",
+    "2024_yumel",
+    "Sharkjoey8",
+    "smiley8685",
 }
