@@ -142,4 +142,5 @@ return {
     "2024_yumel",
     "Sharkjoey8",
     "smiley8685",
+    "crazygolfer13",
 }
