@@ -152,4 +152,5 @@ return {
     "sry_s12",
     "shenshafu4",
     "GabryPower2020",
+    "PELO_054XI6",
 }
