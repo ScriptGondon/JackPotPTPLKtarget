@@ -144,4 +144,5 @@ return {
     "smiley8685",
     "crazygolfer13",
     "Kiskonyok123",
+    "YuraStalker2",
 }
