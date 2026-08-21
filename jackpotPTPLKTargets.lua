@@ -171,4 +171,5 @@ return {
     "fart32213",
     "faertayt",
     "rec_trap",
+    "Rec_Jmore",
 }
