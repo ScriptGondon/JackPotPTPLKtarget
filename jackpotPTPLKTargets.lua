@@ -172,4 +172,5 @@ return {
     "faertayt",
     "rec_trap",
     "Rec_Jmore",
+    "warHamster9",
 }
