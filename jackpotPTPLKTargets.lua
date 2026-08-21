@@ -170,4 +170,5 @@ return {
     "Nonelife3",
     "fart32213",
     "faertayt",
+    "rec_trap",
 }
