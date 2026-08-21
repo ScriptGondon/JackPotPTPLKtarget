@@ -183,4 +183,5 @@ return {
     "CN_ioommp",
     "PawWulf",
     "SorrysocietyRBLX",
+    "Aislynnator",
 }
