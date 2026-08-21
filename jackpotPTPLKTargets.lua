@@ -161,4 +161,5 @@ return {
     "PKLlPERDUHA",
     "grihaham",
     "ZleepyM0lly",
+    "itzKaizzu",
 }
