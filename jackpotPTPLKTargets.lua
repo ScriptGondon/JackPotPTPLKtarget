@@ -181,4 +181,6 @@ return {
     "tyla4president",
     "SERRY777777",
     "CN_ioommp",
+    "PawWulf",
+    "SorrysocietyRBLX",
 }
