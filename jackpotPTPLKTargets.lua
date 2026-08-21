@@ -145,4 +145,5 @@ return {
     "crazygolfer13",
     "Kiskonyok123",
     "YuraStalker2",
+    "EpicE_Studios",
 }
