@@ -193,4 +193,6 @@ return {
     "httfbo",
     "player158168",
     "El_pato987654323",
+    "puros_redemptionarc",
+    "STOPlogging_meOUTTT",
 }
