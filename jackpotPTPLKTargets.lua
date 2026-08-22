@@ -195,4 +195,5 @@ return {
     "El_pato987654323",
     "puros_redemptionarc",
     "STOPlogging_meOUTTT",
+    "loganrbt08",
 }
