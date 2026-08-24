@@ -221,4 +221,6 @@ return {
     "nootthenoob3",
     "Ytgvdfrf",
     "sus777_Ulgrin",
+    "ventur1ng",
+    "Cuirassier_34",
 }
