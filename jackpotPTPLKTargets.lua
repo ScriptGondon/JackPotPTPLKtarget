@@ -225,4 +225,5 @@ return {
     "Cuirassier_34",
     "X111TMR",
     "YourLocalFurryGoober",
+    "bry_boo",
 }
