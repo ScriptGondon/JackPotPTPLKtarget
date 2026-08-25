@@ -231,4 +231,6 @@ return {
     "bolivergms",
     "LuvlyMo_0d",
     "gggsdghfj",
+    "broske_girl",
+    "la4president",
 }
