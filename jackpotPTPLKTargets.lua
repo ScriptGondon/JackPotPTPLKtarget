@@ -246,4 +246,6 @@ return {
     "skibidiohaio157",
     "1213rd1e",
     "lemure_5",
+    "insano573915",
+    "panitau45",
 }
