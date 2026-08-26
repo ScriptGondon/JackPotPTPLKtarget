@@ -239,4 +239,6 @@ return {
     "confidential7891",
     "CTVC36",
     "Nikita_Beltsy",
+    "OnceMoreTwiceLess",
+    "hellohjjs",
 }
