@@ -241,4 +241,6 @@ return {
     "Nikita_Beltsy",
     "OnceMoreTwiceLess",
     "hellohjjs",
+    "faz_kid",
+    "F_sin1rostro",
 }
