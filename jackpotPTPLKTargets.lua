@@ -248,4 +248,6 @@ return {
     "lemure_5",
     "insano573915",
     "panitau45",
+    "Piesek_123bboo",
+    "Pikapikachu_962",
 }
