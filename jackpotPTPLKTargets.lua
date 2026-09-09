@@ -502,4 +502,6 @@ return {
     "joel235553",
     "i_nora98"
     "Cairovalgamer",
+    "BloodyVamy",
+    "Cairovalgamer",
 }
