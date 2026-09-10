@@ -137,6 +137,7 @@ return {
     "boraalp80",
     "kemonoFF",
     "X4sZ99",
+    "jsrh833",
     "Ethanvandermer",
     "2024_yumel",
     "Sharkjoey8",
