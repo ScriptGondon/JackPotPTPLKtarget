@@ -15,6 +15,7 @@ return {
     "Zamiry12",
     "Feli021az",
     "CATAHA_5262",
+    "ItzTheRealKiroshy",
     "friski817",
     "Odisale2016",
     "TEAMSMILEXER",
