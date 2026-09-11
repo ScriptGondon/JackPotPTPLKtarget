@@ -1,8 +1,10 @@
 return {
     "Ertzztrewertz",
     "nosoycetnip123456",
+    "urielgonzalo2017",
     "kakashi3527sj",
     "nagishi222",
+    "Backroomguys",
     "zxc_k1rxx",
     "goofygoober9087",
     "evadeprojadebob",
