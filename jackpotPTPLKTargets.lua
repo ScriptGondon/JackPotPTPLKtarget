@@ -13,7 +13,6 @@ return {
     "kingtaylorO1"
     "Alt_hecKas00",
     "evadeprojadebob",
-    "zhamik1",
     "Teddy_weddy93",
     "ViIeCall",
     "Everest_SnowLeopard",
