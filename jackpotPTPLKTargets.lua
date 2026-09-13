@@ -15,7 +15,6 @@ return {
     "dreko56",
     "jfsfgjgRSLKFESLKGF",
     "kingtaylorO1"
-    "Alt_hecKas00",
     "evadeprojadebob",
     "Teddy_weddy93",
     "ViIeCall",
