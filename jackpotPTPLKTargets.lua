@@ -11,6 +11,8 @@ return {
     "fmboykoryy",
     "goofygoober9087",
     "retongillll",
+    "legandarymn",
+    "dreko56",
     "jfsfgjgRSLKFESLKGF",
     "kingtaylorO1"
     "Alt_hecKas00",
