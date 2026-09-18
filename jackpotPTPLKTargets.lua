@@ -3,6 +3,7 @@ return {
     "nosoycetnip123456",
     "urielgonzalo2017",
     "kakashi3527sj",
+    "tyanka_0803",
     "nagishi222",
     "Backroomguys",
     "zxc_k1rxx",
