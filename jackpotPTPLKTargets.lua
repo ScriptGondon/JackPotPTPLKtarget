@@ -66,7 +66,6 @@ return {
     "Er1dano",
     "Pigeon_Pea",
     "tyla4president",
-    "F0xx_M4nn288",
     "tocinoperro2",
     "copuman95",
     "bsazlseeowokdh",
