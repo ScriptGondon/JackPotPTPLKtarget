@@ -10,7 +10,6 @@ return {
     "LEP007042",
     "bobR_e112",
     "Alt_hecKas00",
-    "Abcdefghij1112222",
     "bot3102",
     "SimulatorSixtySix",
     "0x008000",
