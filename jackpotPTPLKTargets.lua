@@ -7,7 +7,7 @@ return {
     "JJ706D",
     "scratcher3398",
     "HoriLoco1213",
-    "Зфд_сщь1",
+    "FretfulAnimatawner3",
     "bry_boo",
     "ElaVeTed80",
     "MIXA_YT91",
