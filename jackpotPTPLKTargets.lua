@@ -5,6 +5,7 @@ return {
     "kamavinga_kamao",
     "Dreamplay13",
     "tyanka_0803",
+    "0_manual",
     "1kluiv",
     "GOYST12132",
     "Anna_65631",
