@@ -1,6 +1,8 @@
 return {
     "Ertzztrewertz",
     "Untoldloneliness",
+    "BobsCat2714",
+    "GE4FIT",
     "erika_sanfe",
     "totoip124alt",
     "pawslinn",
