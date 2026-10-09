@@ -2,6 +2,8 @@ return {
     "Ertzztrewertz",
     "Untoldloneliness",
     "cheltinylevii",
+    "nerik_60",
+    "Jjkd9191",
     "floofyisbad",
     "kamavinga_kamao",
     "1kluiv2",
