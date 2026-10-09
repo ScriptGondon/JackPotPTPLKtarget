@@ -20,7 +20,6 @@ return {
     "Anna_65631",
     "PHOENIX_YY21",
     "wayneeex1o",
-    "Wow_Dollar100",
     "zhamik1",
     "CN_12371247",
     "hfXYZhe00",
