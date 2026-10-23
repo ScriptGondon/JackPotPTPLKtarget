@@ -7,7 +7,6 @@ return {
     "zhamik1",
     "nkekeekekwpw1o",
     "Marlonx8x",
-    "Unchanged00",
     "ArtemLis_103",
     "agentxmd",
     "xXx2akkxX",
