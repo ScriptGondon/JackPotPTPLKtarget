@@ -19,7 +19,6 @@ return {
     "Draccosync",
     "pazpab_roblox3",
     "Gaby1Rex",
-    "strong12369",
     "XxvietnamxX4",
     "kamavinga_kamao",
     "TheChocolateM1lka",
