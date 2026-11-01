@@ -6,6 +6,8 @@ return {
     "mrvampireeeeeeeeeeee",
     "evaasdfghjlk1",
     "WarriorSolFard",
+    "Stampertje1708",
+    "matigamingvr",
     "Avatargffh",
     "wayneeex1o",
     "alienkopf_1",
