@@ -4,6 +4,8 @@ return {
     "SuperSpeedUpDream",
     "WarriorSolFard",
     "mrvampireeeeeeeeeeee",
+    "Goku_God433",
+    "illegreekfooddreven",
     "evaasdfghjlk1",
     "WarriorSolFard",
     "Stampertje1708",
