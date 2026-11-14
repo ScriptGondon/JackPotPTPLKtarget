@@ -26,7 +26,6 @@ return {
     "maikal7667",
     "wertyasc9",
     "thatCRlol",
-    "james_Starlow",
     "Draccosync",
     "pazpab_roblox3",
     "Gaby1Rex",
